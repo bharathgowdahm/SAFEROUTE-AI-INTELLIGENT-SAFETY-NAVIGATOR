@@ -1,0 +1,5 @@
+:root{ --navy:#07111F; --cyan:#00D4FF; --green:#16C784; --red:#EF4444; }
+.stApp{ background:#07111F; color:#E8EEF5; }
+.hero{ background:linear-gradient(135deg,#0A1A33,#07111F); border:1px solid #1E3A5F;
+  border-radius:16px; padding:32px; text-align:center; }
+.hero h1{ color:var(--cyan); font-size:2.8rem; margin:0; }
