@@ -1,0 +1,4 @@
+GEMINI_API_KEY=
+ORS_API_KEY=
+DATABASE_URL=sqlite:///./saferoute.db
+DEMO_MODE=true
